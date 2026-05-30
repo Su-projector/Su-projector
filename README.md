@@ -1,6 +1,6 @@
 # Abdusobur S. Aribito
 
-### Systems-Focused Product Strategist • UI/UX Designer • Project Manager
+### Project Manager ♠ Founder ♠ Systems-Focused Product Strategist
 
 I build systems that last — then I make sure they stay human.
 
