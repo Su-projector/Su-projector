@@ -66,11 +66,9 @@ Exploring practical applications of artificial intelligence in education, produc
 
 ## 💡 Philosophy
 
-Technology should not merely automate tasks.
+### Cool Head, Warm Heart
 
-It should help people think better, learn faster, make clearer decisions, and create meaningful outcomes.
-
-My approach combines systems thinking, human-centered design, strategic execution, and continuous learning.
+My operating framework for building products that grow without losing their humanity.
 
 ---
 
