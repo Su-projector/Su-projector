@@ -32,13 +32,11 @@ Eduvane explores how AI can support students beyond content delivery by helping 
 
 ### ProviaCore
 
-A cross-functional project-based venture focused on building solutions that drive lasting productivity.
+A systems-driven and cross-functional digital development team that builds high-impact digital products. 5+ projects shipped with a 100% delivery rate.
 
-ProviaCore operates through flexible cross-functional collaboration, assembling specialized teams around project requirements while maintaining strong strategic direction and systems thinking.
+### MyDomos
 
-### GreenFingers
-
-Education-focused initiatives supporting learning, growth, and community development through technology-enabled solutions.
+One platform for the entire rental lifecycle – before, during, and after — so tenants and landlords stop losing money to scams.
 
 ---
 
