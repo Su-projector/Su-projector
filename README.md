@@ -4,7 +4,7 @@
 
 I build systems that last — then I make sure they stay human.
 
-(Yes, I know that sounds like a LinkedIn post. I mean it anyway.)
+> (Yes, I know that sounds like a LinkedIn post. I mean it anyway.)
 
 - Product strategy for AI-native education and fintech
 
