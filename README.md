@@ -2,11 +2,17 @@
 
 ### Systems-Focused Product Strategist • UI/UX Designer • Project Manager
 
-I build systems that transform complex ideas into structured, scalable products.
+I build systems that last — then I make sure they stay human.
 
-My work sits at the intersection of product strategy, user experience design, project management, AI-powered systems, and startup execution.
+(Yes, I know that sounds like a LinkedIn post. I mean it anyway.)
 
-Rather than focusing on a single discipline, I enjoy orchestrating the entire product journey; from early-stage concept development and systems architecture to execution, collaboration, and long-term product growth.
+- Product strategy for AI-native education and fintech
+
+- Operations from zero to one across 4 active ventures
+
+- Cool Head for architecture, Warm Heart for teams
+
+Currently splitting time between Eduvane (beta), MyDomos (waitlist), and GetVendo (prototype). My calendar is a mess.
 
 ---
 
