@@ -2,7 +2,7 @@
 
 ### Project Manager ♠ Founder ♠ Systems-Focused Product Strategist
 
-I build systems that last — then I make sure they stay human.
+I build systems that last, then I make sure they stay human.
 
 > (Yes, I know that sounds like a LinkedIn post. I mean it anyway.)
 
